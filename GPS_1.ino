@@ -3,7 +3,7 @@ Adafruit GPS displayer v 1.0
 Adapted from sample code by Allan Bowhill, 2020
 Free for public use
 
-For: PyGamer Board + GPS Feather Wing 1.8" 
+For: PyGamer Board + Ultimate GPS Feather Wing
 
 To build, see:  https://learn.adafruit.com/adafruit-pygamer/arduino-libraries
 Make sure to include other libraries as needed and delete duplicates 
