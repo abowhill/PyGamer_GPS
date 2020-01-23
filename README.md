@@ -3,7 +3,8 @@ PyGamer + Ultimate GPS Feather navigator
 
 Software that turns PyGamer into a GPS gadget
 
-Fits into some cell phone car holders 
+Fits into some cell phone holderrs for cars
+ 
 Navigable screens: Debug screen, plus MPH, KPH, Altitude, Heading big print screens (see screenshots)  
 
 Hardware:
