@@ -1456,8 +1456,8 @@ void setup()
     } 
   else 
     {
-    arcada.accel.setRange(LIS3DH_RANGE_4_G);   // 2, 4, 8 or 16 G!
-    arcada.accel.setClick(1, 80);
+    arcada.accel->setRange(LIS3DH_RANGE_4_G);   // 2, 4, 8 or 16 G!
+    arcada.accel->setClick(1, 80);
     Serial.println(F("LIS3DH Accelerometer initialized."));
     }
 
@@ -1543,7 +1543,7 @@ void setup()
 void loop() 
   {
   // acceleratorometer events
-  arcada.accel.getEvent(&event);
+  arcada.accel->getEvent(&event);
 
   updateGPS();                  // update global GPS data object
   update_neopixels();           // update neopixels (unimplemented, power)
