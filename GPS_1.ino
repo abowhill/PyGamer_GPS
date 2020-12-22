@@ -1,6 +1,9 @@
 /****************************************************************************
 Adafruit GPS displayer v 1.0
-Adapted from sample code by Allan Bowhill, 2020
+Adapted and derived from AdaFruit test code
+(probably https://learn.adafruit.com/adafruit-pygamer/arduino-test)
+
+Allan Bowhill, 2020
 Free for public use
 
 For: PyGamer Board + Ultimate GPS Feather Wing
