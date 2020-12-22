@@ -3,7 +3,7 @@ PyGamer + Ultimate GPS Feather navigator
 
 Software that turns PyGamer into a GPS gadget
 
-Fits into some cell phone holderrs for cars
+Fits into some cell phone holders for cars
 
 Auto-adjusted screen brightness to ambient light level.
  
